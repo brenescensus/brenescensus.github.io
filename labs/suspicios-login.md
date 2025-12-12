@@ -1,7 +1,5 @@
-
 ---
 title: Investigating a Suspicious Login – IP 102.165.36.250
-
 ---
 
 # Investigating a Suspicious Login  
