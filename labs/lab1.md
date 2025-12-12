@@ -7,13 +7,13 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 A buffer overflow occurs when a program writes more data into a memory buffer than it can hold.  
 This causes the extra data to overwrite adjacent memory, potentially allowing an attacker to control program execution.
 
 ---
 
-## 🧠 Key Concepts
+## Key Concepts
 
 ### 1. What is a Buffer?
 A buffer is a temporary memory space allocated to store data.  
