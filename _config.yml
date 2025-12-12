@@ -1,0 +1,17 @@
+title: "Brenes Census Portfolio"
+description: "Software Developer & Cybersecurity Enthusiast"
+markdown: kramdown
+
+theme: null
+baseurl: ""
+url: "https://brenescensus.github.io"
+
+include:
+  - assets
+  - labs
+
+defaults:
+  - scope:
+      path: "labs"
+    values:
+      layout: null
