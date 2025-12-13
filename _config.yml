@@ -15,3 +15,9 @@ defaults:
       path: "labs"
     values:
       layout: null
+      permalink: /labs/:path/
+
+collections:
+  osint:
+    output: true
+    permalink: /labs/osint/:path/
